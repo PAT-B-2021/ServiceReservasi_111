@@ -12,7 +12,7 @@ namespace ServiceReservasi_20190140111
     public class Service1 : IService1
     {
 
-        string constring = "Data Source=ANNISAYASFA\\MSSQLSERVER01;Initial Catalog=WCFReservasi;Persist Security Info=True;User ID=sa;Password=222222";
+        string constring = "Data Source=LAPTOP-8LFNVBHI\\MSSQLSERVER01;Initial Catalog=WCFReservasi;Persist Security Info=True;User ID=sa;Password=fk";
         SqlConnection connection;
         SqlCommand com;
 
